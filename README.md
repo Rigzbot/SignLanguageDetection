@@ -108,7 +108,7 @@ Fork and clone repository in your local storage to start contributing.
 <table>
     <tr>
         <td><a href="https://github.com/Rigzbot/SignLanguageDetection/blob/master/">
-        <img src="images/hellp.png" alt="Hello" >
+        <img src="images/hello.png" alt="Hello" >
         </a></td>
     </tr>
 </table>
